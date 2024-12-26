@@ -17,6 +17,7 @@ function Home() {
 
               {/* <!-- Sign In Form --> */}
               <form>
+                
                 <div class="form-floating mb-3">
                   <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com"/>
                   <label for="floatingInput">Email address</label>
@@ -39,8 +40,9 @@ function Home() {
                     <a class="small" href="#">Forgot password?</a>
                   </div>
                 </div>
-
+              
               </form>
+             
             </div>
           </div>
         </div>
